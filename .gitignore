@@ -1,0 +1,13 @@
+.DS_Store
+.venv
+
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+
+auth-lambda/__pycache__
+auth-lambda/.pytest_cache
+auth-lambda/.env
+auth-lambda/env
+
+modules/lambda_auth/auth-lambda.zip
